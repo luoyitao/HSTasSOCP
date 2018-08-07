@@ -28,8 +28,8 @@ stored in Subfolder \`06GlobalQuantitiesCodeData\',
 computes certain global
 quantities that can be compared with experimental data.
  
-The codes and data files are grouped and stored in six subfolders aforementioned, 
+The codes and data files are grouped and stored in the six subfolders aforementioned, 
 according to their functions.
-The file, *README-00.txt*, outlines the contents contained in the subfolders. 
+The text file, *README-00.txt*, outlines the contents contained in the subfolders. 
 Inside each subfolder, there is an associated text file, such as *README-01MathematicaCubaCodeData.txt* and so on,
 presenting more details on the codes and data files stored in that subfolder.
