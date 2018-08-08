@@ -7,7 +7,7 @@ submitted to
      \"Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences\". 
 
 We have written the codes to solve numerically the second-order model proposed in Part I,
-    *Homogeneous shear turbulence as a second-order cone program. I*
+    *Homogeneous shear turbulence as a second-order cone program. I*,
 submitted to
      \"Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences\".
 Since the second-order model, in its discretized form, is a second-order cone program (SOCP), 
