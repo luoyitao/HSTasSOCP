@@ -2,14 +2,14 @@
 Homogeneous shear turbulence as a second-order cone program
 
 The source codes and data files in this repository provide supporting materials for the paper titled
-    \`Homogeneous shear turbulence as a second-order cone program. II\'
+    *Homogeneous shear turbulence as a second-order cone program. II*
 submitted to
-     *Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences*. 
+     \"Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences\". 
 
 We have written the codes to solve numerically the second-order model proposed in Part I,
-    \`Homogeneous shear turbulence as a second-order cone program. I\'
+    *Homogeneous shear turbulence as a second-order cone program. I*
 submitted to
-     *Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences*.
+     \"Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences\".
 Since the second-order model, in its discretized form, is a second-order cone program (SOCP), 
 we resort to the widely used and tested open-source package, SCS, to find its optimal solutions 
 in the steady asymptotic state for various discretized versions 
@@ -32,5 +32,5 @@ The codes and data files are grouped and stored in the six folders aforementione
 according to their functions.
 The text file, \`README-00.txt\', outlines the contents contained in the folders. 
 Inside each folder, there is an associated text file, such as \`README-01MathematicaCubaCodeData.txt\' and so on,
-presenting more details on the codes and data files stored in that subfolder.
+presenting more details on the codes and data files stored in that folder.
 For convenience, all these associated text files are stored in  Folder \`00CommentFiles\'.
